@@ -6,7 +6,7 @@ This project is a Power BI Dashboard that processes and analyses over 50,000 com
 ---
 ## Dashboard Preview
 <p align="center">
-  <video src="operations_project.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="operations_project.mp4" 
 </p>
 
 ---
