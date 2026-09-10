@@ -5,9 +5,7 @@ This project is a Power BI Dashboard that processes and analyses over 50,000 com
 
 ---
 ## Dashboard Preview
-<p align="center">
-  <video src="operations_project.mp4" 
-</p>
+<video src="operations_project.mp4" width="100%" controls></video>
 
 ---
 
