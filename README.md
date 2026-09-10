@@ -6,7 +6,7 @@ This project is a Power BI Dashboard that processes and analyses over 50,000 com
 ---
 # Dashboard Preview
 
-<video src="operations_project.mp4" width="100%" controls></video>
+![Operations Dashboard Preview](operations_dashboard.png)
 
 
 ---
