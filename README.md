@@ -4,9 +4,11 @@
 This project is a Power BI Dashboard that processes and analyses over 50,000 company order records. The main goal of the report is to take raw shipping and sales files and turn them into a clear view for management—specifically tracking exact profits, open warehouse space, and monthly order counts.
 
 ---
-## Dashboard Preview
+# Dashboard Preview
 
 <video src="operations_project.mp4" width="100%" controls></video>
+
+
 ---
 
 ## Data Structure & Table Links
